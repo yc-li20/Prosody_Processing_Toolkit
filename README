@@ -1,2 +1,0 @@
-All_in_one.py consists of all the individual functions.
-To use the functions, please extract necessary speech signals by yourself beforehand using soundfile, librosa, or any others.
