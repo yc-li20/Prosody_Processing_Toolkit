@@ -1,7 +1,8 @@
-# Prosody_Analysis_Toolkit
+# Prosody_Processing_Toolkit
 
 Partly adapted from Nigel's midlevel matlab toolkit: https://github.com/nigelgward/midlevel/tree/master
 
-All_in_one.py consists of all the individual functions.
+Prosody_processing.py supports np.array input and individual file processing only.
+Prosody_processing_batch.py supports tensor input and batch processing.
 
-To use the functions, please extract necessary speech signals by yourself beforehand using soundfile, librosa, or any others.
+To use the functions, please extract waveform by yourself.
