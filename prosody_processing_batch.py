@@ -1,5 +1,4 @@
 """
-Mid-level signal processing utilities
 Tensor version with batch processing support
 
 Authors
