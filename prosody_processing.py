@@ -1,5 +1,5 @@
 """
-Mid-level signal processing utilities
+np.array and individual file processing
 
 Authors
  * Yuanchao Li 2023
