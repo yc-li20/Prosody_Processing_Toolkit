@@ -4,7 +4,7 @@ Partly adapted from Nigel's midlevel matlab toolkit: https://github.com/nigelgwa
 
 Improved for batch processing and tensor computation.
 
-Being modified to be integrated into SpeechBrain.
+Under modification to be integrated into SpeechBrain.
 
 Prosody_processing.py supports np.array input and individual file processing only.
 Prosody_processing_batch.py supports tensor input and batch processing.
